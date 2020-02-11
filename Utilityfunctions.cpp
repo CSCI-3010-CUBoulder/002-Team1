@@ -1,7 +1,7 @@
 #include "Utilityfunctions.h"
 
 int Sign(int num) {
-	if(num < 0):
+	if(num < 0)
 		return -1;
 	return 1;
 }
@@ -11,5 +11,5 @@ int Sum(std::vector<int> nums) {
 	for(int i = 0; i < nums.size(); i++) {
 		sum += nums[i];
 	}
-	return num;
+	return sum;
 }

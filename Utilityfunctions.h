@@ -1,5 +1,5 @@
 
-
+#include <vector>
 
 int Sign(int num);
 
